@@ -1,4 +1,4 @@
-%Librerías para la interfaz gráfica
+%Librerías necesarias para la interfaz gráfica
 
 :-use_module(library(pce)).
 :-use_module(library(pce_style_item)).
